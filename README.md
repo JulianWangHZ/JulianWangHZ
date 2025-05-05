@@ -128,5 +128,42 @@
   Configured feedback loop for PRs with Allure reports and screenshots on failure.  
   Enhanced test visibility and release confidence across QA and development teams.
 
+---
+
+## 💼 Open to New Opportunities
+
+I'm currently open to exciting roles where I can contribute to:
+
+* 🚀 **Test Automation Architecture & Framework Design**
+* 🧪 **End-to-End Testing for Web, Mobile, and APIs**
+* 🔍 **Performance & Load Testing with k6 / JMeter**
+* 🔄 **CI Integration & Test Pipeline Resilience (GitHub Actions)**
+
+**What I bring**:
+
+* ✅ Proven experience building test platforms from the ground up in fast-paced SaaS environments
+* ✅ Expertise in designing scalable, modular test automation frameworks with `pytest`, `Appium`, `Playwright`
+* ✅ Strong advocate for quality ownership and test observability
+* ✅ Deep understanding of test coverage strategy, flaky test elimination, and test data control
+
+### 📫 Let's Connect
+
+* ✉️ Email: `julian.wang.qae@gmail.com`
+* 🔗 LinkedIn: [linkedin.com/in/JulianWangHZ](http://linkedin.com/in/julian-wang-qae)
+* 📍 Based in Taiwan | Open to remote-friendly teams
+
+---
+
+## ✨ Ideal Roles I'm Targeting
+
+| Role Title                        | Keywords                                 |
+| --------------------------------- | ---------------------------------------- |
+| **Sr. Software Engineer in Test** | Automation, Pytest, Appium, CI/CD        |
+| **QA Automation Engineer**        | Framework ownership, test infrastructure |
+| **SDET / Test Platform Engineer** | E2E test design, code quality            |
+| **Quality Engineering Lead**      | Strategy, BDD, observability             |
+
+---
+
 ![Snake animation](https://raw.githubusercontent.com/JulianWangHZ/snk/output/github-contribution-grid-snake.svg)
 
