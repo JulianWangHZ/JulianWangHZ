@@ -128,3 +128,5 @@
   Configured feedback loop for PRs with Allure reports and screenshots on failure.  
   Enhanced test visibility and release confidence across QA and development teams.
 
+![Snake animation](https://raw.githubusercontent.com/JulianWangHZ/snk/output/github-contribution-grid-snake.svg)
+
