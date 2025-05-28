@@ -101,8 +101,7 @@
 ### 📐 QA Architecture & Test Strategy
 
 - **Test Pyramid**: Unit, Integration, UI
-- **Design Patterns**: Page Object Model (POM), DRY fixtures, test parametrization
-- **Test Data Management**: Mocking/stubbing, data factories, dynamic environments
+- **Design Patterns**: Page Object Model (POM), DRY fixtures
 - **Documentation**: `Allure`, `Markdown`, `Confluence`, `Notion`
 
 ---
@@ -151,19 +150,6 @@ I'm currently open to exciting roles where I can contribute to:
 * ✉️ Email: `julian.wang.qae@gmail.com`
 * 🔗 LinkedIn: [linkedin.com/in/JulianWangHZ](http://linkedin.com/in/julian-wang-qae)
 * 📍 Based in Taiwan | Open to remote-friendly teams
-
----
-
-## ✨ Ideal Roles I'm Targeting
-
-| Role Title                        | Keywords                                 |
-| --------------------------------- | ---------------------------------------- |
-| **Sr. Software Engineer in Test** | Automation, Pytest, Appium, CI/CD        |
-| **QA Automation Engineer**        | Framework ownership, test infrastructure |
-| **SDET / Test Platform Engineer** | E2E test design, code quality            |
-| **Quality Engineering Lead**      | Strategy, BDD, observability             |
-
----
 
 ![Snake animation](https://raw.githubusercontent.com/JulianWangHZ/snk/output/github-contribution-grid-snake.svg)
 
