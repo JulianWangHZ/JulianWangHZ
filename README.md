@@ -39,8 +39,8 @@
     <td><strong>🛠 CI/CD</strong><br>
       <img height="17" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat"/>
     </td>
-    <td><strong>🧠 Shift-Left Testing</strong><br>
-      <img height="17" src="https://img.shields.io/badge/Shift--Left-%E2%9C%85-blueviolet?style=flat"/>
+    <td><strong>🧠 Shift Testing</strong><br>
+      <img height="17" src="https://img.shields.io/badge/Shift--Left_&_Right-%E2%9C%85-blueviolet?style=flat"/>
     </td>
   </tr>
   <tr>
@@ -50,8 +50,8 @@
     <td><strong>🏗️ Architecture</strong><br>
       <img height="17" src="https://img.shields.io/badge/Scalable_%7C_Modular_%7C_Maintainable-2ecc71?style=flat"/>
     </td>
-    <td><strong>🚨 Flaky Tests</strong><br>
-      <img height="17" src="https://img.shields.io/badge/Retry_%7C_Stabilization-e74c3c?style=flat"/>
+    <td><strong>☁  Cloud Testing</strong><br>
+      <img height="17" src="https://img.shields.io/badge/BrowserStack-e74c3c?style=flat"/>
     </td>
     <td><strong>📊 Allure Reports</strong><br>
       <img height="17" src="https://img.shields.io/badge/Reports_%7C_Visibility_%7C_Integration-3498db?style=flat"/>
@@ -83,13 +83,12 @@
 - **API Testing**: `requests`, `Postman`, `Swagger`
 - **Mobile Testing**: `Appium`, Android/iOS Emulator & Real Devices
 - **Web Testing**: `Playwright`, `Selenium WebDriver`
-- **Performance Testing**: `k6`, `Jmeter`,
+- **Performance Testing**: `k6`, `Jmeter`
 
 ### 📦 DevOps & CI/CD
 
 - **CI Tools**: `GitHub Actions`
 - **Cloud Testing**: `BrowserStack`
-- **Docker**: for parallelized and isolated test environments
 - **Version Control**: `Git`, `GitHub Flow`, release tagging, branching strategy
 
 ### 🔍 Performance & Reliability
@@ -128,22 +127,6 @@
   Enhanced test visibility and release confidence across QA and development teams.
 
 ---
-
-## 💼 Open to New Opportunities
-
-I'm currently open to exciting roles where I can contribute to:
-
-* 🚀 **Test Automation Architecture & Framework Design**
-* 🧪 **End-to-End Testing for Web, Mobile, and APIs**
-* 🔍 **Performance & Load Testing with k6 / JMeter**
-* 🔄 **CI Integration & Test Pipeline Resilience (GitHub Actions)**
-
-**What I bring**:
-
-* ✅ Proven experience building test platforms from the ground up in fast-paced SaaS environments
-* ✅ Expertise in designing scalable, modular test automation frameworks with `pytest`, `Appium`, `Playwright`
-* ✅ Strong advocate for quality ownership and test observability
-* ✅ Deep understanding of test coverage strategy, flaky test elimination, and test data control
 
 ### 📫 Let's Connect
 
