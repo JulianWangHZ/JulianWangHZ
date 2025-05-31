@@ -112,10 +112,9 @@
   Applied `pytest-bdd`, Page Object Model to organize cross-platform test logic.  
   Delivered cross-platform mobile and web coverage with reusable, maintainable test steps.
     
-- 🔌 **API Automation Suite for Internal Microservices**  
-  Designed a lightweight `pytest`-based framework for REST API validation.  
-  Incorporated dynamic test data, contract checks via `Swagger`. 
-  Used `requests` and `allure-pytest` for structured reporting.
+- 🔌 [Custom Pytest API Test Framework](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
+Designed and implemented a modular API test framework using pytest, requests, and allure-pytest.
+Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
 - 📈 **Performance Testing for Forum and Booking Features**  
   Simulated peak user flows using `k6` and real-world load profiles.  
