@@ -112,18 +112,15 @@
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
     
-- 🔌 [Custom Pytest API Test Framework](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
+- 🔌 [Pytest API Test Framework](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
 Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
 Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
-- 📈 **Performance Testing for Forum and Booking Features**  
-  Simulated peak user flows using `k6` and real-world load profiles.  
-  Designed reusable test scenarios in JS, integrated with `Grafana` dashboards. 
+- 📊 [Grafana Dashboard Demo](https://github.com/JulianWangHZ/Grafana-demo)  
+  Set up a customizable Grafana dashboard for visualizing test reports and system metrics.  
+  Integrated with data sources like `Prometheus` and `Loki` to monitor automation runs and application logs.  
+  Demonstrates practical QA usage scenarios such as CI test tracking and error trend analysis.
 
-- 📊 **CI/CD Quality Gates with GitHub Actions + Allure**  
-  Automated test pipelines with job-level retries, flaky test detection, and artifact archiving.  
-  Configured feedback loop for PRs with Allure reports and screenshots on failure.  
-  Enhanced test visibility and release confidence across QA and development teams.
 
 ---
 
