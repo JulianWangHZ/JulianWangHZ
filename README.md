@@ -107,13 +107,13 @@
 
 ## 🧩 Recent Projects
 
-- 🔧 **E2E Automation Framework for a B2B SaaS Platform**
-  uilt using `pytest + Appium`, orchestrated with `GitHub Actions` for CI.  
-  Applied `pytest-bdd`, Page Object Model to organize cross-platform test logic.  
-  Delivered cross-platform mobile and web coverage with reusable, maintainable test steps.
+- 📱 [E2E Automation Framework for a B2B SaaS Platform](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
+  Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
+  Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
+  Delivered reliable mobile coverage with reusable and maintainable test steps.
     
 - 🔌 [Custom Pytest API Test Framework](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
-Designed and implemented a modular API test framework using pytest, requests, and allure-pytest.
+Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
 Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
 - 📈 **Performance Testing for Forum and Booking Features**  
