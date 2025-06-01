@@ -116,7 +116,7 @@
 Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
 Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
-- 🚀 [k6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)  
+- 🚀 [K6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)  
   Built a performance testing suite using `k6` to simulate real-world API traffic and evaluate system resilience.  
   Included scenarios for load, spike, and stress testing with parameterized test data and custom thresholds.  
   Test results can be integrated with Grafana for live monitoring and post-test analysis.
