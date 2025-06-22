@@ -112,7 +112,7 @@
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
     
-- 🔌 [Pytest API Test for FastAPI](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
+- 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
 Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
 Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
