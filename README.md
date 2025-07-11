@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Julian</h1>
 <h3 align="center">
-  💼 Senior Software Engineer in Test &nbsp;&nbsp;|&nbsp;&nbsp;🤖 Automation Strategist &nbsp;&nbsp;|&nbsp;&nbsp;🧑🏻‍🔬 Quality Advocate
+  💼  Senior Software QA Engineer &nbsp;&nbsp;|&nbsp;&nbsp;🤖 Automation Strategist &nbsp;&nbsp;|&nbsp;&nbsp;🧑🏻‍🔬 Quality Advocate
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DB6AC&center=true&vCenter=true&width=600&lines=QA+Engineering+for+Web%2C+Mobile%2C+API;E2E+Automation+with+pytest%2C+Appium%2C+Playwright;Performance+Testing+with+k6+%26+JMeter;CI%2FCD+via+GitHub+Actions+%26+Allure;Test+Design+%7C+BDD%2C+Data%2C+Architecture" alt="Typing SVG" />
@@ -66,7 +66,7 @@
 
 ## 🧠 About Me
 
-- 💼 **Title**: Senior Software Engineer in Test (SET)
+- 💼 **Title**: Senior Software QA Engineer (SET)
 - 🚀 I specialize in **building resilient and maintainable automated testing frameworks**
 - 🧪 Passionate about **automating complex business logic** and ensuring **end-user confidence**
 - 🎯 Championing **testability**, **observability**, and quality integration across the SDLC
