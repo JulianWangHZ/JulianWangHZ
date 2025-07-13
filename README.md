@@ -103,6 +103,10 @@
 - **Design Patterns**: Page Object Model (POM), DRY fixtures
 - **Documentation**: `Allure`, `Markdown`, `Confluence`, `Notion`
 
+  
+
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,gherkin,selenium,androidstudio,githubactions,figma,git,js,typescript,postman,docker,grafana,cypress,jenkins,html,css,react,tailwindcss,firebase,vscode,pycharm,stackoverflow,jest,linux,swift" /> </a> </p>
+
 ---
 
 ## 🧩 Recent Projects
