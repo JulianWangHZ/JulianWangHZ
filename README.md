@@ -105,7 +105,7 @@
 
   
 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,gherkin,selenium,androidstudio,githubactions,figma,git,js,typescript,postman,docker,grafana,cypress,jenkins,html,css,react,tailwindcss,firebase,vscode,pycharm,stackoverflow,jest,linux,swift" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,gherkin,selenium,androidstudio,githubactions,figma,git,js,typescript,postman,docker,grafana,cypress,jenkins,html,css,react,tailwindcss,firebase,vscode,pycharm,stackoverflow,jest,linux,swift,jmeter" /> </a> </p>
 
 ---
 
