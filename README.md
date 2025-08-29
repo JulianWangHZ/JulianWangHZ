@@ -31,7 +31,6 @@
   <tr>
     <td><strong>⚙️ Performance</strong><br>
       <img height="17" src="https://img.shields.io/badge/k6-7D64FF?style=flat"/>
-      <img height="17" src="https://img.shields.io/badge/JMeter-D22128?style=flat"/>
     </td>
     <td><strong>📈 Monitoring</strong><br>
       <img height="17" src="https://img.shields.io/badge/Grafana-F46800?style=flat"/>
@@ -83,7 +82,7 @@
 - **API Testing**: `requests`, `Postman`, `Swagger`
 - **Mobile Testing**: `Appium`, Android/iOS Emulator & Real Devices
 - **Web Testing**: `Playwright`, `Selenium WebDriver`
-- **Performance Testing**: `k6`, `Jmeter`
+- **Performance Testing**: `k6`
 
 ### 📦 DevOps & CI/CD
 
@@ -93,7 +92,7 @@
 
 ### 🔍 Performance & Reliability
 
-- **Performance Testing**: `k6`, `JMeter`
+- **Performance Testing**: `k6`
 - **Monitoring & Logs**: `Allure`, `Grafana`
 - **Resilience Testing**: Retry logic, flaky test detection, timeouts, stabilization techniques
 
@@ -111,7 +110,7 @@
 
 ## 🧩 Recent Projects
 
-- 📱 [E2E Automation for Financial App ](https://github.com/JulianWangHZ/APP-Automation-Demo)  
+- 📱 [E2E Automation for Flutter APP ](https://github.com/JulianWangHZ/Flutter-App-Automation)  
   Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
