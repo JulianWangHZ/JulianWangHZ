@@ -114,6 +114,11 @@
   Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
+
+- 🖥️  [Web E2E Automation](https://github.com/JulianWangHZ/Web-Automation)  
+  A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright/Selenium**.  
+  It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
+  The project demonstrates scalable test design, including **page object patterns**, parameterized test cases, and multi-environment support.  
     
 - 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
 Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
