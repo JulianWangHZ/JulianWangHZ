@@ -22,6 +22,7 @@
     <td><strong>🖥 Web Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Playwright-2C2E3E?style=flat"/>
       <img height="17" src="https://img.shields.io/badge/Selenium-43B02A?style=flat"/>
+      <img height="17" src="https://img.shields.io/badge/Browser--use-000000?style=flat&logo=googlechrome&logoColor=white"/>
     </td>
     <td><strong>🌐 API Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Postman-orange?style=flat"/>
@@ -110,13 +111,13 @@
 
 ## 🧩 Recent Projects
 
-- 📱 [E2E Automation for Flutter APP ](https://github.com/JulianWangHZ/Flutter-App-Automation)  
+- 📱 [E2E Automation for GoGoX APP ](https://github.com/JulianWangHZ/GoGoX-App-Automation)  
   Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
 
-- 🖥️  [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Web-Automation)  
-  An end-to-end testing framework powered by [browser-use](https://github.com/browser-use/browser-use), enabling natural language–driven test flows with autonomous browser agents.
+- 🖥️  [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)  
+  An end-to-end testing framework powered by [browser-use](https://github.com/browser-use/browser-use) , enabling natural language–driven test flows with autonomous browser agents.
 It supports CI/CD integration, reporting, and multi-environment execution. 
     
 - 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
