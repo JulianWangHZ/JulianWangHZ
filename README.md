@@ -111,6 +111,9 @@
 
 ## 🧩 Recent Projects
 
+- 📋 [Bug Severity Guide ](https://github.com/JulianWangHZ/Bug-Severity-Guide)  
+  A concise standard for defect triage that pairs **Severity (A/B/C)**—the user/system **impact**—with **Priority (P0–P4)**—the fix **urgency**—so teams can triage consistently and make informed trade-offs.
+
 - 📱 [E2E Automation for GoGoX APP ](https://github.com/JulianWangHZ/GoGoX-App-Automation)  
   Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
