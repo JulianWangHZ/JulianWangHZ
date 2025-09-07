@@ -111,31 +111,41 @@
 
 ## 🧩 Recent Projects
 
-- 📋 [Bug Severity Guide ](https://github.com/JulianWangHZ/Bug-Severity-Guide)  
+- ⛳️ [Bug Priority Guide ](https://github.com/JulianWangHZ/Bug-Priority-Guide)
+  
+  Organization-wide P0–P4 scale for scheduling bug fixes. Sets response targets and fix windows for planning, incidents, and releases, with clear criteria and escalation paths to keep prioritization consistent and auditable.
+
+- 📋 [Bug Severity Guide ](https://github.com/JulianWangHZ/Bug-Severity-Guide)
+    
   A concise standard for defect triage that pairs **Severity (A/B/C)**—the user/system **impact**—with **Priority (P0–P4)**—the fix **urgency**—so teams can triage consistently and make informed trade-offs.
 
-- 📱 [E2E Automation for GoGoX APP ](https://github.com/JulianWangHZ/GoGoX-App-Automation)  
+- 📱 [E2E Automation for GoGoX APP ](https://github.com/JulianWangHZ/GoGoX-App-Automation)
+
   Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
   Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
   Delivered reliable mobile coverage with reusable and maintainable test steps.
 
-- 🖥️  [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)  
+- 🖥️  [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)
+   
   An end-to-end testing framework powered by [browser-use](https://github.com/browser-use/browser-use) , enabling natural language–driven test flows with autonomous browser agents.
 It supports CI/CD integration, reporting, and multi-environment execution. 
-    
-- 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)  
-Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
-Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
-- 🚀 [K6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)  
+- 🚀 [K6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)
+  
   Built a performance testing suite using `k6` to simulate real-world API traffic and evaluate system resilience.  
   Included scenarios for load, spike, and stress testing with parameterized test data and custom thresholds.  
   Test results can be integrated with Grafana for live monitoring and post-test analysis.
 
-- 📊 [Grafana Dashboard Demo](https://github.com/JulianWangHZ/Grafana-demo)  
+- 📊 [Grafana Dashboard Demo](https://github.com/JulianWangHZ/Grafana-demo)
+   
   Set up a customizable Grafana dashboard for visualizing test reports and system metrics.  
   Integrated with data sources like `Prometheus` and `Loki` to monitor automation runs and application logs.  
   Demonstrates practical QA usage scenarios such as CI test tracking and error trend analysis.
+
+- 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)
+  
+  Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
+  Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
 
 
 ---
