@@ -18,6 +18,7 @@
     <td><strong>📱 Mobile Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Appium-E34F26?style=flat"/>
       <img height="17" src="https://img.shields.io/badge/BrowserStack-FF6C37?style=flat"/>
+      <img height="17" src="https://img.shields.io/badge/Maestro-000000?style=flat"/>
     </td>
     <td><strong>🖥 Web Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Playwright-2C2E3E?style=flat"/>
