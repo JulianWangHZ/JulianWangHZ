@@ -143,11 +143,6 @@ It supports CI/CD integration, reporting, and multi-environment execution.
   Integrated with data sources like `Prometheus` and `Loki` to monitor automation runs and application logs.  
   Demonstrates practical QA usage scenarios such as CI test tracking and error trend analysis.
 
-- 🔌 [Pytest API Test for FakeStore API](https://github.com/JulianWangHZ/Pytest-API-Test-Demo)
-  
-  Designed and implemented a modular API test framework using `pytest`, `requests`, and `allure-pytest`.
-  Emphasizes clean test organization, dynamic input generation, and maintainable reusable components.
-
 
 ---
 
