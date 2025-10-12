@@ -78,7 +78,7 @@
 
 ### 🧪 Test Automation
 
-- **Frameworks**: `pytest`, `pytest-bdd`, `Robot Framework`
+- **Frameworks**: `pytest`, `pytest-bdd`, `Maestro`
 - **Automation Tools**: `Appium`, `Selenium`, `Playwright`
 - **Languages**: `Python`, `JavaScript`, `Shell scripting`
 - **API Testing**: `requests`, `Postman`, `Swagger`
