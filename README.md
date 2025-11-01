@@ -120,17 +120,19 @@
     
   A concise standard for defect triage that pairs **Severity (A/B/C)**—the user/system **impact**—with **Priority (P0–P4)**—the fix **urgency**—so teams can triage consistently and make informed trade-offs.
 
-- 📱 [E2E Automation for GoGoX APP ](https://github.com/JulianWangHZ/GoGoX-App-Automation)
+- 🌐 [Web E2E Automation](https://github.com/JulianWangHZ/Web-Automation)
+    
+  A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright/Selenium**.  
+  It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
 
-  Built using `pytest` + `Appium`, orchestrated with GitHub Actions for CI workflows.  
-  Applied `pytest-bdd` and Page Object Model to organize cross-platform test logic.  
-  Delivered reliable mobile coverage with reusable and maintainable test steps.
+-  🖥️ [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)
 
-- 🖥️  [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)
+   AI-driven end-to-end testing powered by [**browser-use**](https://github.com/browser-use/browser-use), enabling autonomous browser agents to execute natural-language test scenarios.
+
+-  🛩️ [Web E2E Automation with stagehand](https://github.com/JulianWangHZ/StageHand-E2E-Automation)
+
+   E2E automation powered by [**stagehand**](https://github.com/browserbase/stagehand-python), using AI-driven agents capable of multi-step reasoning, resilient element targeting, and dynamic adaptation to UI changes — reducing flaky tests and maintenance costs.
    
-  An end-to-end testing framework powered by [browser-use](https://github.com/browser-use/browser-use) , enabling natural language–driven test flows with autonomous browser agents.
-It supports CI/CD integration, reporting, and multi-environment execution. 
-
 - 🚀 [K6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)
   
   Built a performance testing suite using `k6` to simulate real-world API traffic and evaluate system resilience.  
