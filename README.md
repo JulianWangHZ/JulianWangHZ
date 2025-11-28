@@ -120,9 +120,9 @@
     
   A concise standard for defect triage that pairs **Severity (A/B/C)**—the user/system **impact**—with **Priority (P0–P4)**—the fix **urgency**—so teams can triage consistently and make informed trade-offs.
 
-- 🌐 [Web E2E Automation](https://github.com/JulianWangHZ/Web-Automation)
+- 🌐 [Web E2E Automation](https://github.com/JulianWangHZ/Playwright-BDD-E2E-Test)
     
-  A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright/Selenium**.  
+  A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright**.  
   It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
 
 -  🖥️ [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)
