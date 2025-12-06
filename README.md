@@ -125,10 +125,6 @@
   A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright**.  
   It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
 
--  🖥️ [Web E2E Automation with browser-use](https://github.com/JulianWangHZ/Browser-Use-Automation)
-
-   AI-driven end-to-end testing powered by [**browser-use**](https://github.com/browser-use/browser-use), enabling autonomous browser agents to execute natural-language test scenarios.
-
 -  🛩️ [Web E2E Automation with stagehand](https://github.com/JulianWangHZ/StageHand-E2E-Automation)
 
    E2E automation powered by [**stagehand**](https://github.com/browserbase/stagehand-python), using AI-driven agents capable of multi-step reasoning, resilient element targeting, and dynamic adaptation to UI changes — reducing flaky tests and maintenance costs.
