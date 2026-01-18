@@ -80,7 +80,7 @@
 
 - **Frameworks**: `pytest`, `pytest-bdd`, `Maestro`, `Cypress`
 - **Automation Tools**: `Appium`, `Selenium`, `Playwright`
-- **Languages**: `Python`, `JavaScript`, `Shell scripting`
+- **Languages**: `Python`, `TypeScript`, `Shell scripting`
 - **API Testing**: `requests`, `Postman`, `Swagger`
 - **Mobile Testing**: `Appium`, Android/iOS Emulator & Real Devices
 - **Web Testing**: `Playwright`, `Selenium WebDriver`
