@@ -125,15 +125,6 @@
   A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright**.  
   It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
 
--  🛩️ [Web E2E Automation with stagehand](https://github.com/JulianWangHZ/StageHand-E2E-Automation)
-
-   E2E automation powered by [**stagehand**](https://github.com/browserbase/stagehand-python), using AI-driven agents capable of multi-step reasoning, resilient element targeting, and dynamic adaptation to UI changes — reducing flaky tests and maintenance costs.
-   
-- 🚀 [K6 Performance Test](https://github.com/JulianWangHZ/K6-Peformance)
-  
-  Built a performance testing suite using `k6` to simulate real-world API traffic and evaluate system resilience.  
-  Included scenarios for load, spike, and stress testing with parameterized test data and custom thresholds.  
-  Test results can be integrated with Grafana for live monitoring and post-test analysis.
 
 - 📊 [Grafana Dashboard Demo](https://github.com/JulianWangHZ/Grafana-demo)
    
