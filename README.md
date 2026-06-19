@@ -14,6 +14,7 @@
       <img height="17" src="https://img.shields.io/badge/pytest-blue?style=flat"/>
       <img height="17" src="https://img.shields.io/badge/pytest--bdd-blue?style=flat"/>
       <img height="17" src="https://img.shields.io/badge/Cypress-yellow?style=flat"/>
+      <img height="17" src="https://img.shields.io/badge/Typescript-green?style=flat"/>
     </td>
     <td><strong>📱 Mobile Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Appium-E34F26?style=flat"/>
