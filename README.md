@@ -113,25 +113,6 @@
 
 ## 🧩 Recent Projects
 
-- ⛳️ [Bug Priority Guide ](https://github.com/JulianWangHZ/Bug-Priority-Guide)
-  
-  Organization-wide P0–P4 scale for scheduling bug fixes. Sets response targets and fix windows for planning, incidents, and releases, with clear criteria and escalation paths to keep prioritization consistent and auditable.
-
-- 📋 [Bug Severity Guide ](https://github.com/JulianWangHZ/Bug-Severity-Guide)
-    
-  A concise standard for defect triage that pairs **Severity (A/B/C)**—the user/system **impact**—with **Priority (P0–P4)**—the fix **urgency**—so teams can triage consistently and make informed trade-offs.
-
-- 🌐 [Playwright Web E2E Automation](https://github.com/JulianWangHZ/Playwright-web-e2e-automation)
-    
-  A comprehensive end-to-end testing framework for web applications, built with **Pytest** and **Playwright**.  
-  It follows **BDD (Behavior-Driven Development)** principles, integrates with **Allure reporting**, and supports execution in **CI/CD pipelines** (GitHub Actions).  
-
-
-- 📊 [Grafana Dashboard Demo](https://github.com/JulianWangHZ/Grafana-demo)
-   
-  Set up a customizable Grafana dashboard for visualizing test reports and system metrics.  
-  Integrated with data sources like `Prometheus` and `Loki` to monitor automation runs and application logs.  
-  Demonstrates practical QA usage scenarios such as CI test tracking and error trend analysis.
 
 
 ---
