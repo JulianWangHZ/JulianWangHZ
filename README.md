@@ -70,7 +70,7 @@
 
 ## 🧠 About Me
 
-- 💼 **Title**: Software Develpoer Engineer in Test (SET)
+- 💼 **Title**: Software Engineer in Test (SDET)
 - 🚀 I specialize in **building resilient and maintainable automated testing frameworks**
 - 🧪 Passionate about **automating complex business logic** and ensuring **end-user confidence**
 - 🎯 Championing **testability**, **observability**, and quality integration across the SDLC
@@ -110,12 +110,6 @@
   
 
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,gherkin,selenium,androidstudio,githubactions,figma,git,js,typescript,postman,docker,grafana,cypress,html,css,react,tailwindcss,firebase,vscode,pycharm,stackoverflow,jest,linux,swift" /> </a> </p>
-
----
-
-## 🧩 Recent Projects
-
-
 
 ---
 
