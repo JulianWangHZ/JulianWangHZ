@@ -41,7 +41,6 @@
     </td>
     <td><strong>🛠 CI/CD</strong><br>
       <img height="17" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-      <img height="17" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
     </td>
     <td><strong>🧠 Shift Testing</strong><br>
       <img height="17" src="https://img.shields.io/badge/Shift--Left_&_Right-%E2%9C%85-blueviolet?style=flat"/>
@@ -91,7 +90,7 @@
 
 ### 📦 DevOps & CI/CD
 
-- **CI Tools**: `GitHub Actions`, `Jenkins`
+- **CI Tools**: `GitHub Actions`
 - **Cloud Testing**: `BrowserStack`, `DeviceFarm`
 - **Version Control**: `Git`, `GitHub Flow`, release tagging, branching strategy
 
