@@ -115,7 +115,6 @@
 ### 📫 Let's Connect
 
 * ✉️ Email: `julian.wang.qae@gmail.com`
-* 🔗 LinkedIn: [linkedin.com/in/JulianWangHZ](http://linkedin.com/in/julian-wang-qae)
 * 📍 Based in Taiwan | Open to remote-friendly teams
 
 <picture>
