@@ -23,9 +23,9 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,pytest,selenium,cypress,postman,gherkin&theme=dark" />
-  <img src="https://raw.githubusercontent.com/JulianWangHZ/JulianWangHZ/main/assets/icons/appium.svg" alt="Appium" title="Appium" height="48" />
-  <img src="https://raw.githubusercontent.com/JulianWangHZ/JulianWangHZ/main/assets/icons/device-farm.svg" alt="Appium Device Farm" title="Appium Device Farm" height="48" />
-  <img src="https://raw.githubusercontent.com/JulianWangHZ/JulianWangHZ/main/assets/icons/k6.svg" alt="k6" title="k6" height="48" />
+  <img src="./assets/icons/appium.svg" alt="Appium" title="Appium" height="48" />
+  <img src="./assets/icons/device-farm.svg" alt="Appium Device Farm" title="Appium Device Farm" height="48" />
+  <img src="./assets/icons/k6.svg" alt="k6" title="k6" height="48" />
 </p>
 
 ### 🧰 Languages & Tools
@@ -38,7 +38,7 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor&theme=dark" />
-  <img src="https://raw.githubusercontent.com/JulianWangHZ/JulianWangHZ/main/assets/icons/codex.svg" alt="Codex" title="Codex" height="48" />
+  <img src="./assets/icons/codex.svg" alt="Codex" title="Codex" height="48" />
 </p>
 
 ---
