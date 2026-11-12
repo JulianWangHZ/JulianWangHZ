@@ -22,7 +22,9 @@
 ### 🧪 Testing
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,pytest,selenium,cypress,postman,gherkin&theme=dark" />
+  <img src="./assets/icons/playwright.svg" alt="Playwright" title="Playwright" height="48" />
+  <img src="./assets/icons/pytest.svg" alt="pytest" title="pytest" height="48" />
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,gherkin&theme=dark" />
   <img src="./assets/icons/appium.svg" alt="Appium" title="Appium" height="48" />
   <img src="./assets/icons/device-farm.svg" alt="Appium Device Farm" title="Appium Device Farm" height="48" />
   <img src="./assets/icons/k6.svg" alt="k6" title="k6" height="48" />
@@ -31,13 +33,16 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,swift,xcode,githubactions,docker,grafana,git,linux,androidstudio,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,swift&theme=dark" />
+  <img src="./assets/icons/xcode.svg" alt="Xcode" title="Xcode" height="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,grafana,git,linux,androidstudio,figma&theme=dark" />
 </p>
 
 ### 🤖 AI Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor&theme=dark" />
+  <img src="./assets/icons/claude.svg" alt="Claude" title="Claude" height="48" />
+  <img src="./assets/icons/cursor.svg" alt="Cursor" title="Cursor" height="48" />
   <img src="./assets/icons/codex.svg" alt="Codex" title="Codex" height="48" />
 </p>
 
